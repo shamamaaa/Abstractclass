@@ -1,4 +1,5 @@
-﻿using AbstractClass13._10.Models;
+﻿using System.Reflection;
+using AbstractClass13._10.Models;
 
 namespace AbstractClass13._10;
 class Program
@@ -28,7 +29,7 @@ class Program
         //Car1.DefineNatureHarmness();
         //Car2.DefineNatureHarmness();
         //bicycle1.DefineNatureHarmness();
-
+        //Console.WriteLine($"{Car1.FactoryName}-{Car1.Model}: {Car1.AverageSpeed()}km/h ");
     }
 
 
