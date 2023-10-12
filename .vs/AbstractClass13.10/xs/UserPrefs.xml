@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{0862340B-D5CE-4295-B9BF-7AD89E9EDDA6}|Default">
+  <MonoDevelop.Ide.ItemProperties.AbstractClass13.10 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AbstractClass13.10/Models/Bicycle.cs">
+    <Files>
+      <File FileName="AbstractClass13.10/Program.cs" Line="32" Column="6" />
+      <File FileName="AbstractClass13.10/Models/Vehicle.cs" Line="40" Column="45" />
+      <File FileName="AbstractClass13.10/Models/Car.cs" Line="28" Column="10" />
+      <File FileName="AbstractClass13.10/Models/Bicycle.cs" Line="17" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AbstractClass13.10" expanded="True">
+            <Node name="AbstractClass13.10" expanded="True">
+              <Node name="Models" expanded="True">
+                <Node name="Bicycle.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
